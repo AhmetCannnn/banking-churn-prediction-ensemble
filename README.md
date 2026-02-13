@@ -4,7 +4,7 @@
 Bu proje, bir bankanın müşteri verilerini kullanarak müşterilerin bankayı terk etme (churn) olasılıklarını tahmin etmeyi amaçlayan bir veri bilimi çalışmasıdır. Makine öğrenmesi algoritmaları (LightGBM, XGBoost, CatBoost) kullanılarak müşterilerin davranışları analiz edilmiş ve riskli müşterilerin önceden tespit edilmesi hedeflenmiştir.
 
 ## Veri Seti ve Gizlilik Uyarısı
-⚠️ **Önemli:** Veri seti ING Hubs Türkiye Datathon kapsamında özel olarak sağlandığı için gizlilik nedeniyle paylaşılmamıştır. Projenin metodolojisi ve model çıktıları notebook içerisinde detaylandırılmıştır.
+**Önemli:** Veri seti ING Hubs Türkiye Datathon kapsamında özel olarak sağlandığı için gizlilik nedeniyle paylaşılmamıştır. Projenin metodolojisi ve model çıktıları notebook içerisinde detaylandırılmıştır.
 
 Kodları çalıştırmak için kendi veri setinizi veya benzer yapıdaki açık kaynak verileri kullanabilirsiniz. Kod yapısı, `load_data()` fonksiyonu sayesinde farklı veri kaynaklarına kolayca adapte edilebilir.
 
