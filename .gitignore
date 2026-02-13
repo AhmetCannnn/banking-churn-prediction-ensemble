@@ -1,0 +1,19 @@
+# Veri Dosyaları (Data Files) - Kesinlikle yüklenmeyecek!
+*.csv
+*.zip
+*.rtf
+*.xls
+*.xlsx
+/veri_bilimi_final_projesi/
+/ing-hubs-turkiye-datathon/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDE Dosyaları
+.vscode/
+.idea/
